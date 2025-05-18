@@ -1,5 +1,5 @@
 ## Hello, I'm Kelly Dang 👋
-<a href="https://www.linkedin.com/in/kelly-n-dang"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/kelly-n-dang"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?&style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:kelly-dang@outlook.com)
 
 🌐 I am an aspiring IT professional with a Bachelor’s degree in Cyber Security. I have gained practical experience working with tools such as Kali Linux, Wireshark, Splunk, Azure, and AWS to develop and implement effective cybersecurity solutions.Through hands-on projects involving threat detection systems, penetration testing, and cloud security, I’ve sharpened my skills in identifying vulnerabilities, managing risks, and crafting strong defense strategies.
 
@@ -7,32 +7,25 @@
 
 💻 I have expertise in programming languages such as Python, Java, R, C, and C++, as well as web development like HTML, CSS, and JavaScript.
 
-## Skills
+## Skills 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|---------------------------------------------- | ---------------------------------------------- 
-|---------------------------------------------- | ---------------------------------------------- 
-|---------------------------------------------- | ---------------------------------------------- 
-|---------------------------------------------- |---------------------------------------------- 
-|---------------------------------------------- |---------------------------------------------- 
-|---------------------------------------------- |---------------------------------------------- 
+| Python & Ethical Hacking                      |<a href="https://google.com](https://github.com/kndang/Py-Keylogger/tree/main">Python Keylogger</a>|
+
 
 ## Tools
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1C6D93?&style=for-the-badge&logo=cisco&logoColor=white" />
-
 </div>
 
 ### Virtualization
 <div>
     <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
     <img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=VMware&logoColor=white" />
-
 </div>
-
 
 ### SIEM
 <div>
@@ -71,11 +64,10 @@
 
 ## Projects
 This will include a combination of projects I completed for coursework and home labs I did independently.
+- <a href="https://google.com](https://github.com/kndang/Py-Keylogger/tree/main">Python Keylogger</a>
 
 ## Research Papers
+Papers that I have written throughout my undergraduate studies, related to the field of Cybersecurity/Computer Science field.
 
-## 🧑‍💻 Contact
-
-Email: kelly-dang@outlook.com
-
+## Afterwards
 This portfolio will continuously grow as I complete more projects. I encourage you to visit again to see my progress and learn more about my skills and experience. Thank you for taking time to check out my cybersecurity and software development portfoilio.
