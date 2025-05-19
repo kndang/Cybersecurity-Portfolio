@@ -12,6 +12,7 @@
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Python & Ethical Hacking                      |<a href="https://google.com](https://github.com/kndang/Py-Keylogger/tree/main">Python Keylogger</a>|
+| Python & Packet Sniffing                      | <a href="https://github.com/kndang/SniffTraffic.git">Network Sniff</a>|
 
 
 ## Tools
@@ -58,6 +59,7 @@
 ## Projects
 This will include a combination of projects I completed for coursework and home labs I did independently.
 - <a href="https://google.com](https://github.com/kndang/Py-Keylogger/tree/main">Python Keylogger</a>
+- <a href="https://github.com/kndang/SniffTraffic.git">Network Sniffing</a>
 
 ## Research Papers
 Papers that I have written throughout my undergraduate studies, related to the field of Cybersecurity/Computer Science field.
