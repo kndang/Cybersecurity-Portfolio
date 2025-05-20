@@ -11,7 +11,7 @@
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Python & Ethical Hacking                      |<a href="https://github.com/kndang/Cybersecurity-Portfolio/tree/ee46f61ad974268719affe8d9162a7c7265e7d6f/Python-Keylogger">Python Keylogger</a>|
+| Python & Ethical Hacking                      |<a href="Python-Keylogger">Python Keylogger</a>|
 | Python & Packet Sniffing                      | <a href="https://github.com/kndang/Cybersecurity-Portfolio/tree/main/Sniff-Traffic">Network Sniff</a>|
 
 
