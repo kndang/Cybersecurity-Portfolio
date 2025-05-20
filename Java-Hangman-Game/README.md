@@ -63,3 +63,7 @@ An interactive Hangman game built using Java Swing. It allows user to play the g
 ![image](https://github.com/user-attachments/assets/3cd03d9d-f2be-4d6d-bd74-64baf17262bc)
 
 *Win Game Screen*
+
+![image](https://github.com/user-attachments/assets/98496a3e-3efd-4f31-8ad3-9a25c7f00a48)
+
+*Lose Game Screen*
