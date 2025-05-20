@@ -6,7 +6,7 @@ An interactive Hangman game built using Java Swing. It allows user to play the g
 
 ## 🧩 Features
 
-- Gui built with Java Swing
+- GUI built with Java Swing
 - Difficulty selection: easy, medium, and hard (# of lives)
 - Interactive keyboard
 - Live hangman drawing updates with each incorrect guess
