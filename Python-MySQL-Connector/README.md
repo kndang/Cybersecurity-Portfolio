@@ -34,7 +34,7 @@ A simple 3-tier application written in Python that connects to a MySQL database.
 
 ![Screenshot 2025-05-20 145757](https://github.com/user-attachments/assets/1a79256c-5bd4-4f87-8e63-15b9e8d7501c)
 
-🗄️Database Setup
+## 🗄️ Database Setup
 (If you change the names please make sure to change the code accordingly)
 1. Create the database
 ```bash
