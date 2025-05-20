@@ -14,7 +14,7 @@
 | Python & Ethical Hacking                      |<a href="Python-Keylogger">Python Keylogger</a>|
 | Python & Packet Sniffing                      |<a href="Sniff-Traffic">Network Sniffer</a>|
 | Security Plan for a Fictional Company         |<a href="Security Plan">Security Plan</a>|
-| Java Hangman Game (with GUI)                  |
+| Java (with GUI)                               |<a href="Java-Hangman-Game">Hangman Game</a>|
 
 ## Tools
 ### Network
@@ -62,6 +62,7 @@ This will include a combination of projects I completed for coursework and home 
 - <a href="Python-Keylogger">Python Keylogger</a>
 - <a href="Sniff-Traffic">Network Sniffer</a>
 - <a href="Security Plan">Security Plan</a>
+- <a href="Java-Hangman-Game">Hangman Game</a>
 
 ## Research Papers
 Papers that I have written throughout my undergraduate studies, related to the field of Cybersecurity/Computer Science field.
