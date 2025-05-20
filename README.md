@@ -7,7 +7,7 @@
 
 💻 I have expertise in programming languages such as Python, Java, R, C, and C++, as well as web development like HTML, CSS, and JavaScript.
 
-## Skills 
+## 🎯 Skills 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -15,8 +15,9 @@
 | Python & Packet Sniffing                      |<a href="Sniff-Traffic">Network Sniffer</a>|
 | Threat & Vulnerability Assessment             |<a href="Security Plan">Security Plan</a>|
 | Java (with GUI)                               |<a href="Java-Hangman-Game">Hangman Game</a>|
+| Python & MySQL Workbench                      |<a href="Python-MySQL-Connector">Python MySQL Connector</a>|
 
-## Tools
+## ⚙️ Tools
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
@@ -57,15 +58,16 @@
     <img src="https://img.shields.io/badge/-MySQL%20Workbench-4479A1?&style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
-## Projects
+## 💻 Projects
 This will include a combination of projects I completed for coursework and home labs I did independently.
 - <a href="Python-Keylogger">Python Keylogger</a>
 - <a href="Sniff-Traffic">Network Sniffer</a>
-- <a href="Security Plan">Security Plan</a>
 - <a href="Java-Hangman-Game">Hangman Game</a>
+- <a href="Python-MySQL-Connector">Python MySQL Connector</a>
 
-## Research Papers
+## 📄 Research Papers
 Papers that I have written throughout my undergraduate studies, related to the field of Cybersecurity/Computer Science field.
+- <a href="Security Plan">Security Plan</a>
 
-## Afterword
+## 🔆 Afterword
 This portfolio will continuously grow as I complete more projects. I encourage you to visit again to see my progress and learn more about my skills and experience. Thank you for taking time to check out my cybersecurity and software development portfoilio.
