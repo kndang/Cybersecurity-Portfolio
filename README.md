@@ -12,8 +12,9 @@
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Python & Ethical Hacking                      |<a href="Python-Keylogger">Python Keylogger</a>|
-| Python & Packet Sniffing                      | <a href="https://github.com/kndang/Cybersecurity-Portfolio/tree/main/Sniff-Traffic">Network Sniff</a>|
-
+| Python & Packet Sniffing                      |<a href="Sniff-Traffic">Network Sniff</a>|
+| Security Plan for a Fictional Company         |
+| Java Hangman Game (with GUI)                  |
 
 ## Tools
 ### Network
@@ -58,8 +59,8 @@
 
 ## Projects
 This will include a combination of projects I completed for coursework and home labs I did independently.
-- <a href="https://github.com/kndang/Cybersecurity-Portfolio/tree/ee46f61ad974268719affe8d9162a7c7265e7d6f/Python-Keylogger">Python Keylogger</a>
-- <a href="https://github.com/kndang/SniffTraffic.git">Network Sniffing</a>
+- <a href="Python-Keylogger">Python Keylogger</a>
+- <a href="Sniff-Traffic">Network Sniffing</a>
 
 ## Research Papers
 Papers that I have written throughout my undergraduate studies, related to the field of Cybersecurity/Computer Science field.
