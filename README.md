@@ -11,7 +11,7 @@
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Python & Ethical Hacking                      |<a href="https://google.com](https://github.com/kndang/Py-Keylogger/tree/main">Python Keylogger</a>|
+| Python & Ethical Hacking                      |<a href="https://github.com/kndang/Cybersecurity-Portfolio/tree/ee46f61ad974268719affe8d9162a7c7265e7d6f/Python-Keylogger">Python Keylogger</a>|
 | Python & Packet Sniffing                      | <a href="https://github.com/kndang/SniffTraffic.git">Network Sniff</a>|
 
 
@@ -58,11 +58,11 @@
 
 ## Projects
 This will include a combination of projects I completed for coursework and home labs I did independently.
-- <a href="https://google.com](https://github.com/kndang/Py-Keylogger/tree/main">Python Keylogger</a>
+- <a href="https://github.com/kndang/Cybersecurity-Portfolio/tree/ee46f61ad974268719affe8d9162a7c7265e7d6f/Python-Keylogger">Python Keylogger</a>
 - <a href="https://github.com/kndang/SniffTraffic.git">Network Sniffing</a>
 
 ## Research Papers
 Papers that I have written throughout my undergraduate studies, related to the field of Cybersecurity/Computer Science field.
 
-## Afterwards
+## Afterword
 This portfolio will continuously grow as I complete more projects. I encourage you to visit again to see my progress and learn more about my skills and experience. Thank you for taking time to check out my cybersecurity and software development portfoilio.
