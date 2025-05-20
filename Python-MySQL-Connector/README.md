@@ -61,6 +61,10 @@ cd three-tier-python-mysql
 
 `python present.py`
 
+![image](https://github.com/user-attachments/assets/605333b1-fd8e-4f28-b9c1-9fa8d6e2185b)
+
+**Result from MySQL Workbench after inputting data**
+
 ## 🧠 Skills Learned
 - Writing python code across multuple layers
 - Writing SQL queries, managing databases, performing inserts and selects
