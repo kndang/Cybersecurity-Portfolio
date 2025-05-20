@@ -54,7 +54,7 @@ CREATE TABLE author (
 ## 🚀 How to Run
 1. Clone the repository:
 ```bash
-git clone https://github.com/kndang/Cybersecurity-Portfolio/three-tier-python-mysql.git
+git clone https://github.com/kndang/Cybersecurity-Portfolio.git
 cd three-tier-python-mysql
 ```
 2. Run the **present** script:
