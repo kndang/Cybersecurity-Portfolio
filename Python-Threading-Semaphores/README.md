@@ -22,6 +22,9 @@
    ```bash
    git clone https://github.com/kndang/Cybersecurity-Portfolio.git
    cd Cybersecurity-Portfolio/Python-Threading-Semaphores
+2. Run the script:
+   
+   `python Project 3.1.py`
 
 ## 📸 Sample Output
 ![image](https://github.com/user-attachments/assets/0a6681cd-a6d5-4c5e-9215-fbf65513abf8)
