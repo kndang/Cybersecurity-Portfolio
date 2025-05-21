@@ -19,10 +19,8 @@
 | Python & Threading (Project 3.1)              |<a href="Python-Threading-Semaphores">Doing Things in Order</a>|
 | Python & Threading (Project 3.2)              |<a href="Project-3.2-Threading">Prof & Students Log-in</a>|
 | Python & Threading (Project 3.3)              |<a href="Python-Thread-Wizard-Merchant">Merchant & Wizards Thread</a>|
+| Python & Memory Allocation                    |<a href="First-Fit-Mem-Allocator">First Fit Memory Allocation</a>|
 
-
-
-Python-Thread-Wizard-Merchant
 ## ⚙️ Tools
 ### Network
 <div>
@@ -73,6 +71,8 @@ This will include a combination of projects I completed for coursework and home 
 - <a href="Python-Threading-Semaphores">Doing Things in Order</a>
 - <a href="Project-3.2-Threading">Prof & Students Log-in</a>
 - <a href="Python-Thread-Wizard-Merchant">Merchant & Wizards Thread</a>
+- <a href="First-Fit-Mem-Allocator">First Fit Memory Allocation</a>
+
 
 ## 📄 Research Papers
 Papers that I have written throughout my undergraduate studies, related to the field of Cybersecurity/Computer Science field.
