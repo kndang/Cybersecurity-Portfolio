@@ -1,0 +1,42 @@
+AAAAAAA--------------------------------- Allocated A for 7 bytes.
+AAAAAAABBBBB---------------------------- Allocated B for 5 bytes.
+AAAAAAABBBBBCCCCCCCCCCCCCCCCCCC--------- Allocated C for 19 bytes.
+AAAAAAA-----CCCCCCCCCCCCCCCCCCC--------- Freed B for 5 bytes.
+AAAAAAAD----CCCCCCCCCCCCCCCCCCC--------- Allocated D for 1 bytes.
+AAAAAAA-----CCCCCCCCCCCCCCCCCCC--------- Freed D for 1 bytes.
+AAAAAAA-----CCCCCCCCCCCCCCCCCCC--------- **Insufficient Memory** E asked for 23 bytes.
+AAAAAAAF----CCCCCCCCCCCCCCCCCCC--------- Allocated F for 1 bytes.
+AAAAAAAF----CCCCCCCCCCCCCCCCCCCGGGGGGGGG Allocated G for 9 bytes.
+AAAAAAAF----CCCCCCCCCCCCCCCCCCC--------- Freed G for 9 bytes.
+AAAAAAAFHH--CCCCCCCCCCCCCCCCCCC--------- Allocated H for 2 bytes.
+AAAAAAA-HH--CCCCCCCCCCCCCCCCCCC--------- Freed F for 1 bytes.
+AAAAAAA-HH--CCCCCCCCCCCCCCCCCCC--------- **Insufficient Memory** I asked for 22 bytes.
+AAAAAAA-HH--CCCCCCCCCCCCCCCCCCCJJJJJJ--- Allocated J for 6 bytes.
+AAAAAAA-HH--CCCCCCCCCCCCCCCCCCC--------- Freed J for 6 bytes.
+AAAAAAAKHH--CCCCCCCCCCCCCCCCCCC--------- Allocated K for 1 bytes.
+AAAAAAAKHH------------------------------ Freed C for 19 bytes.
+AAAAAAAKHH------------------------------ **Bad Free Attempt** E not in memory.
+AAAAAAAKHHLLLLLLL----------------------- Allocated L for 7 bytes.
+AAAAAAAKHHLLLLLLLMMM-------------------- Allocated M for 3 bytes.
+AAAAAAAKHHLLLLLLLMMMNNNNNNN------------- Allocated N for 7 bytes.
+AAAAAAAKHHLLLLLLLMMMNNNNNNN------------- **Bad Free Attempt** I not in memory.
+AAAAAAAKHHLLLLLLLMMMNNNNNNNOOO---------- Allocated O for 3 bytes.
+AAAAAAAKHHLLLLLLLMMMNNNNNNNOOOPPP------- Allocated P for 3 bytes.
+AAAAAAAKHHLLLLLLLMMM-------OOOPPP------- Freed N for 7 bytes.
+AAAAAAAKHHLLLLLLLMMM----------PPP------- Freed O for 3 bytes.
+AAAAAAAKHHLLLLLLLMMMQQ--------PPP------- Allocated Q for 2 bytes.
+AAAAAAAKHHLLLLLLLMMMQQRRR-----PPP------- Allocated R for 3 bytes.
+AAAAAAAKHHLLLLLLL---QQRRR-----PPP------- Freed M for 3 bytes.
+AAAAAAAKHHLLLLLLL---QQRRR-----PPPSSSSSS- Allocated S for 6 bytes.
+-------KHHLLLLLLL---QQRRR-----PPPSSSSSS- Freed A for 7 bytes.
+TTTT---KHHLLLLLLL---QQRRR-----PPPSSSSSS- Allocated T for 4 bytes.
+-------KHHLLLLLLL---QQRRR-----PPPSSSSSS- Freed T for 4 bytes.
+-------KHHLLLLLLL---QQRRR-----PPPSSSSSS- **Insufficient Memory** U asked for 17 bytes.
+V------KHHLLLLLLL---QQRRR-----PPPSSSSSS- Allocated V for 1 bytes.
+V------KHHLLLLLLL-----RRR-----PPPSSSSSS- Freed Q for 2 bytes.
+V------KHHLLLLLLL-----RRR-----PPPSSSSSS- **Insufficient Memory** W asked for 15 bytes.
+V------KHHLLLLLLL-------------PPPSSSSSS- Freed R for 3 bytes.
+V------KHHLLLLLLLXXXXXXX------PPPSSSSSS- Allocated X for 7 bytes.
+VYY----KHHLLLLLLLXXXXXXX------PPPSSSSSS- Allocated Y for 2 bytes.
+VYYZZZZKHHLLLLLLLXXXXXXX------PPPSSSSSS- Allocated Z for 4 bytes.
+VYYZZZZKHHLLLLLLLXXXXXXX------PPPSSSSSS- **Bad Free Attempt** U not in memory.

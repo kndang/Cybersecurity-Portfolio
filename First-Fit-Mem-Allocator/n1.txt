@@ -1,0 +1,9 @@
+AAAAAAAAAA---------- Allocated A for 10 bytes.
+AAAAAAAAAABBBBB----- Allocated B for 5 bytes.
+AAAAAAAAAABBBBBCCC-- Allocated C for 3 bytes.
+AAAAAAAAAA-----CCC-- Freed B for 5 bytes.
+AAAAAAAAAADDDD-CCC-- Allocated D for 4 bytes.
+----------DDDD-CCC-- Freed A for 10 bytes.
+EE--------DDDD-CCC-- Allocated E for 2 bytes.
+EE--------DDDD-CCC-- **Insufficient Memory** F asked for 15 bytes.
+EE--------DDDD-CCC-- **Bad Free Attempt** B not in memory.

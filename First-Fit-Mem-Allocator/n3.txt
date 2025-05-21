@@ -1,0 +1,91 @@
+A--------------------------------------------------------------------------------------------------- Allocated A for 1 bytes.
+ABBBBBBBBBBBBBB------------------------------------------------------------------------------------- Allocated B for 14 bytes.
+ABBBBBBBBBBBBBBCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC---------------- Allocated C for 69 bytes.
+ABBBBBBBBBBBBBBCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCDDDDDDDDD------- Allocated D for 9 bytes.
+ABBBBBBBBBBBBBBCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCDDDDDDDDD------- **Insufficient Memory** E asked for 55 bytes.
+ABBBBBBBBBBBBBBCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCDDDDDDDDD------- **Insufficient Memory** F asked for 45 bytes.
+ABBBBBBBBBBBBBBCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCDDDDDDDDD------- **Insufficient Memory** G asked for 9 bytes.
+A--------------CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCDDDDDDDDD------- Freed B for 14 bytes.
+A--------------CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC---------------- Freed D for 9 bytes.
+AHHHHHHHHH-----CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC---------------- Allocated H for 9 bytes.
+A--------------CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC---------------- Freed H for 9 bytes.
+AIIIIIIIIIII---CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC---------------- Allocated I for 11 bytes.
+AIIIIIIIIIII---CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCJJJJJJJJJJ------ Allocated J for 10 bytes.
+AIIIIIIIIIII---CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCJJJJJJJJJJ------ **Insufficient Memory** K asked for 13 bytes.
+AIIIIIIIIIII---CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCJJJJJJJJJJ------ **Bad Free Attempt** K not in memory.
+AIIIIIIIIIII---CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCJJJJJJJJJJ------ **Insufficient Memory** L asked for 15 bytes.
+AIIIIIIIIIII---CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCJJJJJJJJJJ------ **Insufficient Memory** M asked for 19 bytes.
+AIIIIIIIIIII---CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCJJJJJJJJJJ------ **Bad Free Attempt** M not in memory.
+AIIIIIIIIIIINNNCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCJJJJJJJJJJ------ Allocated N for 3 bytes.
+A-----------NNNCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCJJJJJJJJJJ------ Freed I for 11 bytes.
+AOOOO-------NNNCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCJJJJJJJJJJ------ Allocated O for 4 bytes.
+AOOOO-------NNNCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCJJJJJJJJJJ------ **Insufficient Memory** P asked for 42 bytes.
+AOOOOQ------NNNCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCJJJJJJJJJJ------ Allocated Q for 1 bytes.
+AOOOOQ------NNNCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCJJJJJJJJJJ------ **Bad Free Attempt** E not in memory.
+AOOOOQ------NNNCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCJJJJJJJJJJ------ **Bad Free Attempt** L not in memory.
+AOOOOQ---------CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCJJJJJJJJJJ------ Freed N for 3 bytes.
+AOOOOQ---------CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCJJJJJJJJJJ------ **Insufficient Memory** R asked for 21 bytes.
+AOOOOQ---------CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCJJJJJJJJJJ------ **Bad Free Attempt** P not in memory.
+AOOOOQ---------CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCJJJJJJJJJJ------ **Insufficient Memory** S asked for 20 bytes.
+AOOOOQTTTTTTT--CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCJJJJJJJJJJ------ Allocated T for 7 bytes.
+AOOOOQ---------CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCJJJJJJJJJJ------ Freed T for 7 bytes.
+AOOOOQ---------CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCJJJJJJJJJJ------ **Insufficient Memory** U asked for 33 bytes.
+A----Q---------CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCJJJJJJJJJJ------ Freed O for 4 bytes.
+A----Q---------CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCJJJJJJJJJJ------ **Insufficient Memory** V asked for 20 bytes.
+A----Q---------CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCJJJJJJJJJJ------ **Insufficient Memory** W asked for 15 bytes.
+A----Q---------CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCJJJJJJJJJJ------ **Bad Free Attempt** G not in memory.
+A----Q---------CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCJJJJJJJJJJ------ **Insufficient Memory** X asked for 80 bytes.
+A----Q---------CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC---------------- Freed J for 10 bytes.
+A----Q---------CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC---------------- **Insufficient Memory** Y asked for 21 bytes.
+A----Q---------CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC---------------- **Insufficient Memory** Z asked for 86 bytes.
+A----Q---------CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC---------------- **Bad Free Attempt** R not in memory.
+A----Q---------CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC---------------- **Insufficient Memory** a asked for 28 bytes.
+A----Q---------CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC---------------- **Bad Free Attempt** S not in memory.
+A----Q---------CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC---------------- **Bad Free Attempt** a not in memory.
+A----Q---------CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCbbbbbbbbbbbbbbb- Allocated b for 15 bytes.
+A----Q---------CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCbbbbbbbbbbbbbbb- **Insufficient Memory** c asked for 10 bytes.
+AddddQ---------CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCbbbbbbbbbbbbbbb- Allocated d for 4 bytes.
+-ddddQ---------CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCbbbbbbbbbbbbbbb- Freed A for 1 bytes.
+-ddddQ---------CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCbbbbbbbbbbbbbbb- **Bad Free Attempt** V not in memory.
+-ddddQ---------CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCbbbbbbbbbbbbbbb- **Bad Free Attempt** X not in memory.
+-ddddQ---------CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCbbbbbbbbbbbbbbb- **Bad Free Attempt** Z not in memory.
+-ddddQ---------CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC---------------- Freed b for 15 bytes.
+-ddddQee-------CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC---------------- Allocated e for 2 bytes.
+-ddddQee-------CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC---------------- **Bad Free Attempt** U not in memory.
+-ddddQee-------CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC---------------- **Bad Free Attempt** W not in memory.
+-ddddQee-------CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC---------------- **Bad Free Attempt** Y not in memory.
+-ddddQee-------CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCffffffffffffff-- Allocated f for 14 bytes.
+-ddddQee----------------------------------------------------------------------------ffffffffffffff-- Freed C for 69 bytes.
+-ddddQ------------------------------------------------------------------------------ffffffffffffff-- Freed e for 2 bytes.
+-ddddQggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg---------------ffffffffffffff-- Allocated g for 63 bytes.
+-ddddQ------------------------------------------------------------------------------ffffffffffffff-- Freed g for 63 bytes.
+-ddddQ------------------------------------------------------------------------------ffffffffffffff-- **Insufficient Memory** h asked for 80 bytes.
+-ddddQiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii---------------------------------ffffffffffffff-- Allocated i for 45 bytes.
+-ddddQiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii---------------------------------ffffffffffffff-- **Bad Free Attempt** h not in memory.
+-ddddQiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiijjjj-----------------------------ffffffffffffff-- Allocated j for 4 bytes.
+-ddddQiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii---------------------------------ffffffffffffff-- Freed j for 4 bytes.
+-ddddQiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiikkkkkkkkkkk----------------------ffffffffffffff-- Allocated k for 11 bytes.
+-ddddQiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiikkkkkkkkkkk----------------------ffffffffffffff-- **Insufficient Memory** l asked for 27 bytes.
+-ddddQiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii---------------------------------ffffffffffffff-- Freed k for 11 bytes.
+-ddddQiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii---------------------------------ffffffffffffff-- **Insufficient Memory** m asked for 134 bytes.
+-ddddQiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii---------------------------------ffffffffffffff-- **Bad Free Attempt** F not in memory.
+-dddd-iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii---------------------------------ffffffffffffff-- Freed Q for 1 bytes.
+-dddd-------------------------------------------------------------------------------ffffffffffffff-- Freed i for 45 bytes.
+-ddddnnnn---------------------------------------------------------------------------ffffffffffffff-- Allocated n for 4 bytes.
+-ddddnnnnoooooooooooooooooooooooooooooooooooooooooooooooooooooooo-------------------ffffffffffffff-- Allocated o for 56 bytes.
+-ddddnnnnoooooooooooooooooooooooooooooooooooooooooooooooooooooooo-------------------ffffffffffffff-- **Bad Free Attempt** c not in memory.
+-ddddnnnnoooooooooooooooooooooooooooooooooooooooooooooooooooooooo-------------------ffffffffffffff-- **Insufficient Memory** p asked for 28 bytes.
+-ddddnnnnooooooooooooooooooooooooooooooooooooooooooooooooooooooooqqqqqqqqqqqqqq-----ffffffffffffff-- Allocated q for 14 bytes.
+-ddddnnnnooooooooooooooooooooooooooooooooooooooooooooooooooooooooqqqqqqqqqqqqqq-----ffffffffffffff-- **Insufficient Memory** r asked for 9 bytes.
+-ddddnnnnooooooooooooooooooooooooooooooooooooooooooooooooooooooooqqqqqqqqqqqqqq-----ffffffffffffff-- **Insufficient Memory** s asked for 7 bytes.
+-dddd----ooooooooooooooooooooooooooooooooooooooooooooooooooooooooqqqqqqqqqqqqqq-----ffffffffffffff-- Freed n for 4 bytes.
+-dddd----ooooooooooooooooooooooooooooooooooooooooooooooooooooooooqqqqqqqqqqqqqq-----ffffffffffffff-- **Insufficient Memory** t asked for 9 bytes.
+-dddd----ooooooooooooooooooooooooooooooooooooooooooooooooooooooooqqqqqqqqqqqqqq-----ffffffffffffff-- **Bad Free Attempt** m not in memory.
+-dddd----ooooooooooooooooooooooooooooooooooooooooooooooooooooooooqqqqqqqqqqqqqq-----ffffffffffffff-- **Bad Free Attempt** r not in memory.
+-dddd----ooooooooooooooooooooooooooooooooooooooooooooooooooooooooqqqqqqqqqqqqqq-----ffffffffffffff-- **Bad Free Attempt** t not in memory.
+-dddduuuuooooooooooooooooooooooooooooooooooooooooooooooooooooooooqqqqqqqqqqqqqq-----ffffffffffffff-- Allocated u for 4 bytes.
+-dddduuuuooooooooooooooooooooooooooooooooooooooooooooooooooooooooqqqqqqqqqqqqqqvv---ffffffffffffff-- Allocated v for 2 bytes.
+-dddduuuuooooooooooooooooooooooooooooooooooooooooooooooooooooooooqqqqqqqqqqqqqqvv---ffffffffffffff-- **Bad Free Attempt** l not in memory.
+-dddduuuuooooooooooooooooooooooooooooooooooooooooooooooooooooooooqqqqqqqqqqqqqqvvww-ffffffffffffff-- Allocated w for 2 bytes.
+-dddduuuuooooooooooooooooooooooooooooooooooooooooooooooooooooooooqqqqqqqqqqqqqqvvww-ffffffffffffff-- **Insufficient Memory** x asked for 18 bytes.
+-dddduuuuooooooooooooooooooooooooooooooooooooooooooooooooooooooooqqqqqqqqqqqqqqvvww-ffffffffffffff-- **Bad Free Attempt** x not in memory.
