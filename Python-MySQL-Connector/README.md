@@ -55,7 +55,7 @@ CREATE TABLE author (
 1. Clone the repository:
 ```bash
 git clone https://github.com/kndang/Cybersecurity-Portfolio.git
-cd three-tier-python-mysql
+cd Cybersecurity-Portfolio/Python-MySQL-Connector
 ```
 2. Run the **present** script:
 
