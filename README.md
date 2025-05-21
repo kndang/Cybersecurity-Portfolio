@@ -16,6 +16,8 @@
 | Threat & Vulnerability Assessment             |<a href="Security Plan">Security Plan</a>|
 | Java (with GUI)                               |<a href="Java-Hangman-Game">Hangman Game</a>|
 | Python & MySQL Workbench                      |<a href="Python-MySQL-Connector">Python MySQL Connector</a>|
+| Python & Threading (Project 3.1)              |<a href="Python-Threading-Semaphores">Doing Things in Order</a>|
+| Python & Threading (Project 3.2)              |<a href="Project-3.2-Threading">Prof & Students Log-in</a>|
 
 ## ⚙️ Tools
 ### Network
@@ -64,6 +66,8 @@ This will include a combination of projects I completed for coursework and home 
 - <a href="Sniff-Traffic">Network Sniffer</a>
 - <a href="Java-Hangman-Game">Hangman Game</a>
 - <a href="Python-MySQL-Connector">Python MySQL Connector</a>
+- <a href="Python-Threading-Semaphores">Doing Things in Order</a>
+- <a href="Project-3.2-Threading">Prof & Students Log-in</a>
 
 ## 📄 Research Papers
 Papers that I have written throughout my undergraduate studies, related to the field of Cybersecurity/Computer Science field.
