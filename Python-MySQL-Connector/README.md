@@ -61,9 +61,13 @@ cd Cybersecurity-Portfolio/Python-MySQL-Connector
 
 `python present.py`
 
+![image](https://github.com/user-attachments/assets/c3196732-f6ba-4b82-a30d-3af30a706374)
+
+**Sample Command-Line Interface (CLI)**
+
 ![image](https://github.com/user-attachments/assets/605333b1-fd8e-4f28-b9c1-9fa8d6e2185b)
 
-**Result from MySQL Workbench after inputting data**
+**Sample result from MySQL Workbench with some data in table**
 
 ## 🧠 Skills Learned
 - Writing python code across multuple layers
