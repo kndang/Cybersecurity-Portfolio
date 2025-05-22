@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Dice 21</title>
+  <link rel="stylesheet" href="dice21.css" type="text/css" />
+  <style>
+    #diceImage {
+      max-width: 100px;
+      margin-top: 10px;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Player name inputs -->
+  <p id="players" class="on">
+    <strong>
+      Player 1: <input type="text" id="p1" placeholder="Enter Player One's Name" />
+      Player 2: <input type="text" id="p2" placeholder="Enter Player Two's Name" />
+    </strong>
+  </p>
+
+  <!-- Current turn and score display -->
+  <div id="turn" class="on"></div>
+  <div id="scoreCounter" class="off"></div>
+ 
+
+  <!-- Dice image (starts hidden, shows rdice.png on game start) -->
+  <div class="dice" style="text-align:center;">
+    <img id="diceImage" src="" alt="Dice" style="display: none;" />
+  </div>
+
+  <!-- Rules image (shown only before game starts) -->
+  <div class="rules" id="rulesDiv" style="text-align:center;">
+    <img id="rulesImage" src="dice21Rules.png" alt="Game Rules" />
+  </div>
+
+  <!-- Game control buttons -->
+  <div id="buttons">
+    <button id="start" class="on">Start Game</button>
+    <button id="roll" class="off" disabled>Roll Die!</button>
+    <button id="stand" class="off" disabled>Stand</button>
+  </div>
+
+  <script src="dice21.js"></script>
+  <audio id="rollSound" src="roll.wav" preload="auto"></audio>
+</body>
+</html>
