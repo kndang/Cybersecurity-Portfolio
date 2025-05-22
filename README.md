@@ -80,4 +80,4 @@ Papers that I have written throughout my undergraduate studies, related to the f
 - <a href="Security Plan">Security Plan</a>
 
 ## 🔆 Afterword
-This portfolio will continuously grow as I complete more projects. I encourage you to visit again to see my progress and learn more about my skills and experience. Thank you for taking time to check out my cybersecurity and software development portfoilio.
+This portfolio will continuously grow as I complete more projects. I encourage you to visit again to see my progress and learn more about my skills and experience. Thank you for taking the time to check out my cybersecurity and software development portfoilio.
