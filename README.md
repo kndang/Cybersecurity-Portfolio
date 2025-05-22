@@ -12,7 +12,7 @@
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Python & Ethical Hacking                      |<a href="Python-Keylogger">Python Keylogger</a>|
-| Python & Packet Sniffing                      |<a href="Sniff-Traffic">Network Sniffer</a>|
+| Python & Traffic Analysis                     |<a href="Sniff-Traffic">Network Sniffer</a>|
 | Threat & Vulnerability Assessment             |<a href="Security Plan">Security Plan</a>|
 | Java (with GUI)                               |<a href="Java-Hangman-Game">Hangman Game</a>|
 | Python & MySQL Workbench                      |<a href="Python-MySQL-Connector">Python MySQL Connector</a>|
