@@ -16,9 +16,9 @@
 | Threat & Vulnerability Assessment             |<a href="Security Plan">Security Plan</a>|
 | Java (with GUI)                               |<a href="Java-Hangman-Game">Hangman Game</a>|
 | Python & MySQL Workbench                      |<a href="Python-MySQL-Connector">Python MySQL Connector</a>|
-| Python & Threading (Project 3.1)              |<a href="Python-Threading-Semaphores">Doing Things in Order</a>|
-| Python & Threading (Project 3.2)              |<a href="Project-3.2-Threading">Prof & Students Log-in</a>|
-| Python & Threading (Project 3.3)              |<a href="Python-Thread-Wizard-Merchant">Merchant & Wizards Thread</a>|
+| Python & Multithreading                       |<a href="Python-Threading-Semaphores">Doing Things in Order</a>|
+| Python & Thread Synchronization               |<a href="Project-3.2-Threading">Prof & Students Log-in</a>|
+| Python & Conditional Synchronization          |<a href="Python-Thread-Wizard-Merchant">Merchant & Wizards Thread</a>|
 | Python & Memory Allocation                    |<a href="First-Fit-Mem-Allocator">First Fit Memory Allocation</a>|
 | HTML, CSS, & JavaScript                       |<a href="Dice21">Dice 21 Game</a>|                     
 
