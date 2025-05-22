@@ -25,6 +25,8 @@
 
 ## 📁 File Structure
 
+![image](https://github.com/user-attachments/assets/a64203a1-da44-43ac-aaa5-18b0b8b22f5c)
+
 ## 🛠️ Tools Used
 
 - HTML5
