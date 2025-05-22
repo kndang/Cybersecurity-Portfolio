@@ -14,7 +14,7 @@
 | Python & Ethical Hacking                      |<a href="Python-Keylogger">Python Keylogger</a>|
 | Python & Traffic Analysis                     |<a href="Sniff-Traffic">Network Sniffer</a>|
 | Threat & Vulnerability Assessment             |<a href="Security Plan">Security Plan</a>|
-| Java (with GUI)                               |<a href="Java-Hangman-Game">Hangman Game</a>|
+| Java GUI                                      |<a href="Java-Hangman-Game">Hangman Game</a>|
 | Python & MySQL Workbench                      |<a href="Python-MySQL-Connector">Python MySQL Connector</a>|
 | Python & Multithreading                       |<a href="Python-Threading-Semaphores">Doing Things in Order</a>|
 | Python & Thread Synchronization               |<a href="Project-3.2-Threading">Prof & Students Log-in</a>|
