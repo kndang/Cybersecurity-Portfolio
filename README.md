@@ -1,4 +1,4 @@
-## Hello, I'm Kelly Dang 👋
+## Hi, I'm Kelly Dang 👋
 <a href="https://www.linkedin.com/in/kelly-n-dang"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?&style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:kelly-dang@outlook.com)
 
 🌐 I am an aspiring IT professional with a Bachelor’s degree in Cyber Security. I have gained practical experience working with tools such as Kali Linux, Wireshark, Splunk, Azure, and AWS to develop and implement effective cybersecurity solutions.Through hands-on projects involving threat detection systems, penetration testing, and cloud security, I’ve sharpened my skills in identifying vulnerabilities, managing risks, and crafting strong defense strategies.
