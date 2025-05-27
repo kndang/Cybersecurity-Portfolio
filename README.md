@@ -22,6 +22,7 @@
 | Python & Memory Allocation                    |<a href="First-Fit-Mem-Allocator">First Fit Memory Allocation</a>|
 | HTML, CSS, & JavaScript                       |<a href="Dice21">Dice 21 Game</a>|          
 | MySQL Workbench                               |<a href="Order-Transactions-Database">Order Transactions Database</a>| 
+| Python & FCFS                                 |<a href="First-Come-First-Served">First Come, First Served</a>|
 
 ## ⚙️ Tools
 ### Network
@@ -76,6 +77,8 @@ This will include a combination of projects I completed for coursework and home 
 - <a href="First-Fit-Mem-Allocator">First Fit Memory Allocation</a>
 - <a href="Dice21">Dice 21 Game</a>
 - <a href="Order-Transactions-Database">Order Transactions Database</a>
+- <a href="First-Come-First-Served">First Come, First Served</a>
+
 
 ## 📄 Research Papers
 Papers that I have written throughout my undergraduate studies, related to the field of Cybersecurity/Computer Science field.
