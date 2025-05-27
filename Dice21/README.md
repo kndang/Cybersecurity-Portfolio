@@ -37,7 +37,7 @@
 
 ---
 
-## 💡 Skills Learned
+## 💡 Skills Demonstrated
 
 - Used JavaScript and CSS to create a visual animation effect for the dice
 - Adding sound effects with JavaScript
