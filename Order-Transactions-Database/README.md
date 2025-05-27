@@ -50,8 +50,8 @@ See [`Model.pdf`](Model.pdf) for the complete database schema ERD.
 
 | File | Description |
 |------|-------------|
-| `database.sql` | SQL script to create the schema and insert sample data |
-| `queries.sql` | SQL script with example queries (SELECTs, joins, aggregates) |
+| `Database.sql` | SQL script to create the schema and insert sample data |
+| `Queries.sql` | SQL script with example queries (SELECTs, joins, aggregates) |
 | `Model.pdf` | Entity-Relationship Diagram |
 
 ## 🧰 Tools Used
