@@ -7,7 +7,7 @@
 > The threads should all be started in the main part of the program.  
 > Try varying the order the threads are started in to ensure the output is consistent.  
 
-## 🧠 Skills Learned
+## 🧠 Skills Demonstrated
 - Python multithreading
 - Semaphore-based synchronization
 
