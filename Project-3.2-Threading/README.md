@@ -10,7 +10,7 @@
 > The professor should wait a random amount of time from 1 to 3 seconds before logging into the system. 
 > Once the professor is on, they will be on from 1 to 5 seconds (simulated by having them sleep), and then they leave the system. Whenever the professor logs on or off, print a message indicating that. All of this runs continuously in a while true loop.
 
-## 🧠 Skills Learned
+## 🧠 Skills Demonstrated
 - Python multithreading
 - Thread synchronization using semaphore and lock
   
