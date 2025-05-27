@@ -69,7 +69,7 @@ cd Cybersecurity-Portfolio/Python-MySQL-Connector
 
 **Sample result from MySQL Workbench with some data in table**
 
-## 🧠 Skills Learned
+## 🧠 Skills Demonstrated
 - Writing python code across multuple layers
 - Writing SQL queries, managing databases, performing inserts and selects
 - How to Interact with a MySQL database from Python
