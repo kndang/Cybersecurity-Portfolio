@@ -14,7 +14,7 @@
 >
 > All characters (three wizards and the merchant) run in separate threads. The merchant should wait for the wizard to finish making a potion before offering a new combination. Synchronization should be implemented using condition variables or semaphores.
 
-## 🧠 Skills Learned
+## 🧠 Skills Demonstrated
 - Python multithreading
 - Semaphore-based synchronization
 
