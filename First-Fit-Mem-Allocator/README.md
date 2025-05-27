@@ -4,7 +4,7 @@
 > Write a first fit memory allocator. Your program will read in a sequence of memory allocation and dellocation commnds from a file. It will perform each command and display what memory looks like after each command.
 > Included several text files to test.
     
-## 🧠 Skills Learned
+## 🧠 Skills Demonstrated/Learned
 - Implemented python logic to allocate and deallocate memory using the first-fit algorithm 
 - Understood how memory fragmentation affects allocation
   
