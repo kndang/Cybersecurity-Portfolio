@@ -26,10 +26,10 @@ An interactive Hangman game built using Java Swing. It allows user to play the g
 - **GameController.java**: main logic controller that deals with the word selection, game state, and user input
 - **WinJFrame.java**: Displays the winning screen with option to start or exit the game
 
-## 🧠 Skills Learned
-- Gained experience using the Java Swing framework
-- Learned how to use file I/O in Java
-- Gained experience on how to handle user actions (button clicks and menu selection)
+## 🧠 Skills Demonstrated
+- Java Swing framework
+- Using file I/O in Java
+- How to handle user actions (button clicks and menu selection)
 
 ## 🛠️Tools Used
 - Java 8
