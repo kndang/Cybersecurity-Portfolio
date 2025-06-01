@@ -115,5 +115,4 @@
 
 ## 🎲 Assets
 
-All dice images used in this project were created by me and are free to use within this project. Please contact me if you'd like to use them elsewhere.
-
+All dice images used in this project were created by me. They are free to use within this project. If you'd like to use them elsewhere, please contact me for permission.
