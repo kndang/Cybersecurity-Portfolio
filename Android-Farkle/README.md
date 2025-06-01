@@ -41,6 +41,7 @@
 - Android
 
 ## 💡 Skills Demonstrated
+
 - Built a multi-activity Android app using Java and managing UI with XML layouts.
 - Visual dice selection/locking using color feedback
 - Real-time updates to scores and player turns
@@ -62,10 +63,11 @@
 4.Build and run the app on an emulator or Android device.
 
 ## 🔧 Planned Improvements
+
 - 🎲 Animated Dice Rolls.
 - 🔊 Sound Effects — Play sounds on roll, score, and farkle.
 
-## 🖼️ Screenshots
+## 📷 Screenshots
 
 ![image](https://github.com/user-attachments/assets/79adcd40-6f14-46a2-afb2-4e752e58ddaf)
 
