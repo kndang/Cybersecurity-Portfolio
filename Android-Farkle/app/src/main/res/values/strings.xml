@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Farkle</string>
+
+    <string name="overview">
+        "<b>"Overview: "</b>" Farkle is a game for 2 players in which dice are rolled for points. Play consists of rolling dice, selecting one or more dice for points, and rolling the remaining. At least one scoring die must be removed after every roll. If all six dice are used for points, all six dice may be rolled again. If no dice rolled count for points (a "Farkle") then the turn ends and all points won during that turn are lost.
+    </string>
+
+    <string name="h2p">
+        "<b>"How to Play: "</b>" Each turn starts with six rolled dice. The player must then select which dice to keep for points from that roll. Once that is done, the player may either pass to the next player or roll the remaining dice to gain more points for that turn. Points are earned every time you roll a 1 or 5, three of a kind, four of a kind, five of a kind, 6 of a kind, straight 1-6, three pairs, or two triplets. If none of your dice earned points, thats a FARKLE. Since you earned no points, you pass the dice to the next player. If you rolled at least one scoring die, you can score your points and pass the dice to the next player, or risk the points you just earned during this round by putting some or all of the winnning die (dice) aside. The remaining dice may earn you additional points, but if you Farkle, you lose everything you earned during the round. Scoring is based only on the dice in each roll. You cannot earn points by combining dice from different rolls. You can continue rolling the dice until you either pass or farkle. Then the next player rolls the six dice until they pass or Farkle. This cycle repeats until a player wins the game.
+    </string>
+
+    <string name="winning">
+        "<b>"Winning: "</b>" Play continues until one player scores 10,000 or more points. When this happens, the other player gets one more turn to try and beat that score. The player with the highest score wins.
+    </string>
+    <string name="game_over_title">Game Over!</string>
+    <string name="new_game_label">New Game?</string>
+    <string name="new_game_question">Are you sure you like to start a new game?</string>
+</resources>

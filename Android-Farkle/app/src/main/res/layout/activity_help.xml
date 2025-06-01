@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/backgroundColor"
+    tools:context=".HelpActivity">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/overviewTV"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="@string/overview"
+                android:textSize="20dp"
+                android:textColor="@color/helpTextColor"
+                />
+            <TextView
+                android:id="@+id/h2pTV"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="@string/h2p"
+                android:textSize="20dp"
+                android:textColor="@color/helpTextColor"
+                />
+            <TextView
+                android:id="@+id/winningTV"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="@string/winning"
+                android:textSize="20dp"
+                android:textColor="@color/helpTextColor"
+                />
+            <ImageView
+                android:id="@+id/scoring"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                app:srcCompat="@drawable/farkle_scoring" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="textColor">#ffffff</color>
+    <color name="backgroundColor">#111F34</color> <!-- Midnight Express -->
+    <color name="helpTextColor">#FEC649</color> <!-- Golden Tainoi -->
+    <color name = "hintColor">#D3D3D3</color> <!-- light gray -->
+</resources>
