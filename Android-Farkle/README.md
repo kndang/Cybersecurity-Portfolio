@@ -1,8 +1,8 @@
-# 🎲 Farkle Game - Android App
+# 📱🎲 Farkle Game - Android App
 
 > A fully functional two-player **Farkle** dice game built in Android Studio using Java. This app handles game logic, UI interaction, and scoring based on official Farkle rules.  Originally developed for CMSCI 256 - Principles of Software Development, this game has since been updated with improved functionality.
 
-## 📱 Features
+## 🕹️ Features
 
 - 🎮 Two-player gameplay with name input
 - 🎲 Real-time dice rolling with image buttons
@@ -112,3 +112,8 @@
 ![image](https://github.com/user-attachments/assets/69036bd7-810b-477c-9b36-4d978b07ee5d)
 
 **Winning Screen: A player earned 10,000 pts**
+
+## 🎲 Assets
+
+All dice images used in this project were created by me and are free to use within this project. Please contact me if you'd like to use them elsewhere.
+
