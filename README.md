@@ -1,7 +1,7 @@
 ## Hi, I'm Kelly Dang 👋
 <a href="https://www.linkedin.com/in/kelly-n-dang"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?&style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:kelly-dang@outlook.com)
 
-🌐 I am an aspiring IT professional with a Bachelor’s degree in Cybersecurity and practical experience across different areas in the field. I’ve worked on penetration testing with Kali Linux, analyzed network traffic using Wireshark, monitored logs and detected threats in Splunk, and have worked with cloud security tools in both AWS and Azure environments.
+🌐 I am a passionate cybersecurity enthusiast  with a Bachelor’s degree in Cybersecurity and practical experience across different areas in the field. I’ve worked on penetration testing with Kali Linux, analyzed network traffic using Wireshark, monitored logs and detected threats in Splunk, and have worked with cloud security tools in both AWS and Azure environments.
 
 💡 I enjoy solving complex technical challenges and have developed a variety of projects that reflect my passion for both cybersecurity and programming. These include a Python keylogger, a network sniffer, and a First-Fit memory allocator, all of which deepened my understanding of low-level systems and security concepts. I’ve also built applications like a Python MySQL database connector, a First-Come-First-Served scheduler, and even games like an Android Farkle game and a Java Hangman game—projects that sharpened my logic, creativity, and problem-solving skills.
 
