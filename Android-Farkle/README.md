@@ -11,10 +11,6 @@
 - ♻️ Hot Dice Bonus: Using all six dice in a single round will automatically re-roll all dice and points earned so far will carry over - giving them a chance to score even more
 - 🏆 Game ends when a player reaches 10,000 points
 
-Add all points from the current turn to their turn total. Immediately get a fresh set of six dice to continue rolling.
-
-Continue their turn—no need
-
 ## 📊 Scoring Table
 
 | Combination                        | Points     |
