@@ -38,7 +38,6 @@
 - Java
 - Android Studio
 - Android XML
-- Android
 
 ## 💡 Skills Demonstrated
 
@@ -60,6 +59,7 @@
    cd Cybersecurity-Portfolio/Android-Farkle
    
 3.Open in Android Studio.
+
 4.Build and run the app on an emulator or Android device.
 
 ## 🔧 Planned Improvements
