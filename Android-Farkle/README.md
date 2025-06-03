@@ -8,7 +8,7 @@
 - 🎲 Real-time dice rolling with image buttons
 - ✅ Selectable, lockable dice with visual state changes
 - 🧠 Turn scoring and Farkle detection
-- ♻️ Hot Dice Bonus: Using all six dice in scoring gives the player a fresh set of six dice and continues their turn
+- ♻️ Hot Dice Bonus: Using all six dice in a single round gives the player a fresh set of six dice and continues their turn
 - 🏆 Game ends when a player reaches 10,000 points
 
 ## 📊 Scoring Table
