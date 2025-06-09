@@ -26,6 +26,7 @@
 | MySQL Workbench                               |<a href="Order-Transactions-Database">Order Transactions Database</a>| 
 | Python & FCFS                                 |<a href="First-Come-First-Served">First Come, First Served</a>|
 | Android Studio & XML                          |<a href="Android-Farkle">Android Farkle</a>|
+| AWS                                           |<a href="AWS-Securing-EC2-Instances">Securing AWS EC2 Instances</a>|
 
 ## ⚙️ Tools
 ### Network
@@ -68,6 +69,11 @@
     <img src="https://img.shields.io/badge/-MySQL%20Workbench-4479A1?&style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
+### Cloud Platforms
+<div>
+    <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</div>
+
 ## 💻 Projects
 This will include a combination of projects I completed for coursework and home labs I did independently.
 - <a href="Python-Keylogger">Python Keylogger</a>
@@ -82,6 +88,7 @@ This will include a combination of projects I completed for coursework and home 
 - <a href="Order-Transactions-Database">Order Transactions Database</a>
 - <a href="First-Come-First-Served">First Come, First Served</a>
 - <a href="Android-Farkle">Android Farkle</a>
+- <a href="AWS-Securing-EC2-Instances">Securing AWS EC2 Instances</a>
 
 ## 📄 Research Papers
 Papers that I have written throughout my undergraduate studies, related to the field of Cybersecurity/Computer Science field.
