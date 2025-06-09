@@ -19,6 +19,9 @@ This project walks through the process of launching and securing an Amazon EC2 i
 - Set up a new security group allowing SSH (port 22) **only from your IP**
 - Generate and download a new key pair for SSH access
 
+![EC2 Dashboard](Images/instanceRunning.png)
+*Dashboard showing EC2 instance is running successfully.*
+
 ### 2. Connect via SSH
   - Open your terminal.
   - Navigate to the directory where your key pair is stored.
@@ -30,6 +33,9 @@ This project walks through the process of launching and securing an Amazon EC2 i
     ```bash
     ssh -i "your-key-pair.pem" ec2-user@your-instance-public-dns
     ```
+    
+![SSH Connection](Images/sshConnection.png)
+*Successfully connected to the EC2 instance via SSH.*
 
 ### 3. Secure the Instance
 
@@ -44,18 +50,29 @@ sudo adduser newuser
 sudo usermod -aG wheel newuser
 ```
 
+![SSH Connection](Images/systemUpdate.png)
+*Update and securing the EC2 Instance.*
+
 - Harden SSH settings:
   - Disable root login
   - Disble password authentication
   - Restart the SSH service
 
+![SSH Settings](Images/secureSSH.png)
+
 ### 4. Configure a Basic Firewall
   - Limit SSH to your IP address only
   - Remove any open or unnessary inbound rules
 
+![SSH Rules](Images/sshRules.png)
+*Inbound and outbound rules for EC2 instance that allows only my IP addr on port 22.*
+
 ### 5. Set up CloudWatch Monitoring
   - Create a CloudWatch alarm for high CPU usage (e.g., CPU utilization > 80% for 5 minutes).
   - Configure it to send notification
+
+![CloudWatch Alarm](Images/alarmSetup2.png)
+*CloudWatch alarm that monitors CPU utilization of the EC2 instance and send an email notification if it stays above 80% for 5 minutes.*
 
 ## 📘 What I Learned
 - How to securely configure an EC2 instance from launch to production-readiness
