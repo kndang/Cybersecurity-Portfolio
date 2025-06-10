@@ -10,6 +10,15 @@ This project walks through the process of launching and securing an Amazon EC2 i
 - Configure AWS security groups as a basic firewall
 - Set up monitoring with Amazon CloudWatch
 
+## ⚙️ Tools Used
+- AWS
+- EC2
+- IAM
+- Security Groups
+- CloudWatch
+- Amazon Linux 2
+- SSH
+
 ## 👣 Project Steps
 
 ### 1. Launch an EC2 Instance
