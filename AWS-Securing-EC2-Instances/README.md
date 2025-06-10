@@ -80,7 +80,7 @@ sudo usermod -aG wheel newuser
   - Create a CloudWatch alarm for high CPU usage (e.g., CPU utilization > 80% for 5 minutes).
   - Configure it to send notification
 
-![CloudWatch Alarm](Images/alarmSetup2.png)
+![CloudWatch Alarm](Images/alarmDashboard.png)
 *CloudWatch alarm that monitors CPU utilization of the EC2 instance and send an email notification if it stays above 80% for 5 minutes.*
 
 ## 📘 What I Learned
