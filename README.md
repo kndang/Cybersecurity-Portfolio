@@ -26,7 +26,8 @@
 | MySQL Workbench                               |<a href="Order-Transactions-Database">Order Transactions Database</a>| 
 | Python & FCFS                                 |<a href="First-Come-First-Served">First Come, First Served</a>|
 | Android Studio & XML                          |<a href="Android-Farkle">Android Farkle</a>|
-| AWS                                           |<a href="AWS-Securing-EC2-Instances">Securing AWS EC2 Instances</a>|
+| AWS & Cloud Security                          |<a href="AWS-Securing-EC2-Instances">Securing AWS EC2 Instances</a>|
+| AWS & Cloud Security                          |<a href="AWS-Securing-Data-in-S3-Buckets">Securing Data in AWS S3 Buckets</a>|
 
 ## ⚙️ Tools
 ### Network
@@ -89,6 +90,7 @@ This will include a combination of projects I completed for coursework and home 
 - <a href="First-Come-First-Served">First Come, First Served</a>
 - <a href="Android-Farkle">Android Farkle</a>
 - <a href="AWS-Securing-EC2-Instances">Securing AWS EC2 Instances</a>
+- <a href="AWS-Securing-Data-in-S3-Buckets">Securing Data in AWS S3 Buckets</a>
 
 ## 📄 Research Papers
 Papers that I have written throughout my undergraduate studies, related to the field of Cybersecurity/Computer Science field.
