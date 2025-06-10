@@ -18,23 +18,41 @@ This project walks through securing an Amazon S3 bucket, a widely used cloud sto
 - Created a bucket
 - Enabled the “Block all public access” option to prevent unauthorized access
 
+![Create Bucket](Images/createS3Bucket.png)
+*Create S3 bucket.*
+
+![Create Bucket 2](Images/createS3Bucket2.png)
+*Block all public access.*
+
 ### Exercise 2: Enable Bucket Versioning
 
 - Enabled versioning under the bucket’s Properties tab
+
+![Bucket Versioning](Images/bucketVersioning.png)
+*Bucket Versioning enabled.*
 
 ### Exercise 3: Enable Server-Side Encryption (SSE-KMS)
 
 - Enabled default encryption using AWS Key Management Service (KMS)
 - Selected an AWS-managed KMS key
 
+![Server-Side Encryption](Images/encryption.png)
+*AWS-KMS encryption enabled.*
+
 ### Exercise 4: Set a Bucket Policy
 
 - Added a policy to allow read-only access to a specific IAM user
+
+![Bucket Policies](Images/bucketPolicies.png)
+*Policy that allows a specific username to read any object from the S3 bucket.*
 
 ### Exercise 5: Enable Access Logging
 
 - Turned on server access logging
 - Set my-log-bucket as the target for log storage
+
+![S3 Logs](Images/s3Logs.png)
+*Server access logging is enabled and the target bucket for logs is set.*
 
 ## 🧠 What I Learned
 
