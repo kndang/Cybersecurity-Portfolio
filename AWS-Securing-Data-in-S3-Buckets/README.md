@@ -1,9 +1,5 @@
 # 🔐☁️ Securing Data in AWS S3 Buckets
 
-This project walks through the process of launching and securing an Amazon EC2 instance. It covers key areas like setting up security groups, managing SSH access with key pairs, hardening the instance, and configuring basic monitoring with CloudWatch.
-
-## 🎯 Overview
-
 This project walks through securing an Amazon S3 bucket, a widely used cloud storage service. It covers the core steps for protecting stored data: creating a private bucket, enabling versioning, applying server-side encryption, managing access through policies, and configuring logging for audit purposes.
 
 ## 🔧 Tools & Skills
