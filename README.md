@@ -28,6 +28,7 @@
 | Android Studio & XML                          |<a href="Android-Farkle">Android Farkle</a>|
 | AWS & Cloud Security                          |<a href="AWS-Securing-EC2-Instances">Securing AWS EC2 Instances</a>|
 | AWS & Cloud Security                          |<a href="AWS-Securing-Data-in-S3-Buckets">Securing Data in AWS S3 Buckets</a>|
+| Azure & Cloud Security                        |<a href="Azure-Implementing-NSGs">Azure: Implementing NSGs</a>|
 
 ## ⚙️ Tools
 ### Network
@@ -91,6 +92,7 @@ This will include a combination of projects I completed for coursework and home 
 - <a href="Android-Farkle">Android Farkle</a>
 - <a href="AWS-Securing-EC2-Instances">Securing AWS EC2 Instances</a>
 - <a href="AWS-Securing-Data-in-S3-Buckets">Securing Data in AWS S3 Buckets</a>
+- <a href="Azure-Implementing-NSGs">Azure: Implementing NSGs</a>
 
 ## 📄 Research Papers
 Papers that I have written throughout my undergraduate studies, related to the field of Cybersecurity/Computer Science field.
