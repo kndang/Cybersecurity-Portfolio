@@ -27,6 +27,9 @@ This project demonstrates how to secure Azure Virtual Machines (VMs) using Netwo
   - Subnet name: mySubnet
   - Subnet address range: 10.0.1.0/24
 
+![Overview of myVnet](Images/VnOverview.png)
+*Overview page of myVNet*
+
 ### Exercise 2: Launch a Virtual Machine
 1. Create a new Virtual Machine
 2. Under the  “Availability options” dropdown select the following: "No infrastructure redundancy required"
@@ -40,24 +43,17 @@ This project demonstrates how to secure Azure Virtual Machines (VMs) using Netwo
    - Subnet: mySubnet
 4. Deploy the VM
 
-🔁 After That:
-Scroll down to the Size section
-
-Click "See all sizes"
-
-You should now be able to pick:
-
-B1s (Standard)
-
-Or B1ms (fallback if B1s isn't there)
-
-
+![Overview of myVM](Images/VmOverview.png)
+*Overview page of myVM*
 
 ### Exercise 3: Create a Network Security Group (NSG)
 - Create a Network Security Group
 - Use:
   - Name: myNSG
   - Region: Same as the VM
+
+![inbound and outbound rules](Images/Rules.png)
+*Table showing inbound and outbound rules*
 
 ### Exercise 4: Add Inbound and Outbound Rules
 - Go to myNSG > Inbound Rules > Add rule:
@@ -68,9 +64,15 @@ Or B1ms (fallback if B1s isn't there)
   - Name: Allow-RDP
 - Ensure outbound rules allow all traffic by default
 
+![Inbound rules for RDP](Images/inboundRDP.png)
+*inbound rules tab with Allow-RDP rule highlighted*
+
 ### Exercise 5: Associate NSG with VM
 - Go to Networking on the VM or its Network Interface
 - Under "Network security group", associate with *myNSG*
+
+![NSG](Images/NSG.png)
+*Showing myNSG is associated with VM*
 
 ## 🧠 What I Learned
 
