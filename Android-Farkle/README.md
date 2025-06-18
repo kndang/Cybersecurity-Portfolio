@@ -47,6 +47,64 @@
 
 ## 📂 Project Structure
 
+```
+Android-Farkle/
+├── README.md
+├── app
+│   ├── build.gradle
+│   ├── proguard-rules.pro
+│   └── src
+│       ├── main
+│       │   ├── AndroidManifest.xml
+│       │   ├── java
+│       │   │   └── com
+│       │   │       └── kelly
+│       │   │           └── farkle
+│       │   │               ├── GameActivity.java
+│       │   │               ├── HelpActivity.java
+│       │   │               ├── MainActivity.java
+│       │   │               └── PlayersActivity.java
+│       │   ├── res
+│       │   │   ├── drawable
+│       │   │   │   ├── background.png
+│       │   │   │   ├── dice_background_selector.xml
+│       │   │   │   ├── dice_ss.png
+│       │   │   │   ├── farkle_scoring.png
+│       │   │   │   ├── five.png
+│       │   │   │   ├── four.png
+│       │   │   │   ├── ic_launcher_background.xml
+│       │   │   │   ├── ic_launcher_foreground.xml
+│       │   │   │   ├── logo.png
+│       │   │   │   ├── one.png
+│       │   │   │   ├── six.png
+│       │   │   │   ├── three.png
+│       │   │   │   └── two.png
+│       │   │   ├── layout
+│       │   │   │   ├── activity_game.xml
+│       │   │   │   ├── activity_help.xml
+│       │   │   │   ├── activity_main.xml
+│       │   │   │   └── activity_players.xml
+│       │   │   └── values
+│       │   │       ├── colors.xml
+│       │   │       ├── strings.xml
+│       │   │       ├── styles.xml
+│       │   │       └── themes.xml
+├── build.gradle
+├── gradle
+├── gradle.properties
+├── gradlew
+├── gradlew.bat
+└── settings.gradle
+```
+
+The key folders shown above include:
+
+- **java/** — Contains the app’s source code with all the Java classes managing game logic and UI behavior. 
+- **drawable/** — Image and graphic resources like icons and dice images.  
+- **layout/** — XML layout files defining app screens and UI structure.  
+- **values/** — App-wide constants such as colors, strings, styles, and themes.  
+
+Other configuration files and folders (e.g., `xml/` resource files, tests) are omitted here for clarity.
 
 ## 🧪 How to Run
 
