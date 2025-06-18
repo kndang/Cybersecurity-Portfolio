@@ -24,6 +24,8 @@ This project demonstrates how to monitor and analyze activity within an Azure en
 - Name: MonitoringLabRG
 - Pick any Region
 
+![Create a Resource Group](Images/create-resource-group.png)
+*Creating a resource group.*
 
 ### Exercise 2: Create a Log Analytics Workspace
 1. Search for Log Analytics Workspaces > click Create
@@ -32,6 +34,8 @@ This project demonstrates how to monitor and analyze activity within an Azure en
    - Assign it to *MonitoringLabRG*
    - Region: Same as your resource group
 
+![Create a Log Analytics Workspace](Images/create-log-analytics-workspace.png)
+*Creating a log analytics workspace.*
 
 ### Exercise 3: Enable Azure Activity Logs to be sent to Log Analytics
 - Go to Monitor > Activity Log > Diagnostic Settings
@@ -41,6 +45,8 @@ This project demonstrates how to monitor and analyze activity within an Azure en
 - Choose *MonitorLogsWorkspace*
 - Select all log categories (Administrative, Policy, etc.)
   
+![Send Logs to Log Analytics](Images/diagnostic-settings.png)
+*Configuring diagnostic settings to send logs to Log Analytics.*
 
 ### Exercise 4: Simulate Activity
 
@@ -51,11 +57,17 @@ This project demonstrates how to monitor and analyze activity within an Azure en
   - Name: storagesimlog01
   - Region: same as your workspace
 
+![Create a resource](Images/create-storage-accoount.png)
+*Creating a resource (storage account).*
+
 #### Modify an Exisiting Resource
 - Go to Resource Groups > MonitoringLabRG
 - Click on your *storagesimlog01*
 - In the left pane, go to *Configuration*
 - Change any setting and save
+
+![Modify Resource](Images/storage-account-config.png)
+*Modifying a resource (storage account).*
 
 #### Delete a resource
 - Go to Home > Resource Group > MonitoringLabRG
@@ -67,11 +79,29 @@ This project demonstrates how to monitor and analyze activity within an Azure en
 - Click Access Control (IAM) > Add role assignment
 - Choose the role *Reader* and assign it to yourself
 
+![Select a Role](Images/add-role-assignment.png)
+*Selecting a role.*
+
+![Assign a Member](Images/add-role-assignment-2.png)
+*Assign a member to the role.*
+
 ### Exercise 5: Query Logs in Log Analytics
 - Go to Monitor > Logs
 - Make sure your workspace is selected
-- Run desired query (sample queries are listed below)
+- Run query (sample queries are listed below)
   
+![Log: Show Recent Actions](Images/log_show_recent_actions.png)
+*Query that shows the 10 most recent Azure activity log events from the last hour.*
+
+![Log: Show Recent Actions](Images/log_role_change.png)
+*Query that lists recent Azure activities related to role assignment changes.*
+
+![Log: Show Recent Actions](Images/log_storage_account.png)
+*Query that lists recent create/update or delete operations in Azure.*
+
+![Log: Show Recent Actions](Images/log_user_summary.png)
+
+*Query that shows who did the most actions.*
 
 ## 🧠 What I Learned
 - How to configure diagnostic settings to collect Azure activity logs.
