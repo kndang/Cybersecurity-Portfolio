@@ -79,6 +79,11 @@
     <img src="https://img.shields.io/badge/-Azure-0078D4?&style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 </div>
 
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+</div>
+
 ## 💻 Projects
 This will include a combination of projects I completed for coursework and home labs I did independently.
 - <a href="Python-Keylogger">Python Keylogger</a>
