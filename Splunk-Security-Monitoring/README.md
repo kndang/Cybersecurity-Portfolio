@@ -33,7 +33,7 @@ This lab demonstrates how to use Splunk to monitor system logs, detect suspiciou
 *Configuring the Splunk indexer to listen on port 9997 for data forwarded by Universal Forwarder.*
 
 2. Install and Configure the Splunk Universal Forwarder
-   - 1Install and configure **Splunk Universal Forwarder**.
+   - Install the Splunk Universal Forwarder
    - Conect the forwarder to the indexer using:
  ```powershell
  splunk add forward-server 127.0.0.1:9997
@@ -54,8 +54,9 @@ This lab demonstrates how to use Splunk to monitor system logs, detect suspiciou
      - Audit privilege use
      - Audit process tracking
      - Audit system events
-     - 
+       
 ![Local Security Policy Settings](Images/local-security-policy.png)
+
 *Enable auditing of process creation to generate EventCode 4686 for Splunk Monitoring.*
 
 4. Configure it to monitor and forward the following Windows logs:
@@ -91,20 +92,17 @@ Sysmon64.exe -accepteula -i "C:\Path\To\sysmonconfig-export.xml"
 Replace the path with the actual location of your config file
 
 ![Sysmon Installation](Images/sysmon-installed.png)
+
 *Installing Sysmon with a custom configuration.*
 
-- Open **Event Viewer**
-- Navigate to **Applications and Services Logs** > **Microsoft** > **Windows** > **Sysmon** > **Operational**
-- If you see logs with event IDs like 1, 3, or 11 Sysmon is working.
+- Verify that Sysmon is working
+  - Open **Event Viewer**
+  - Navigate to **Applications and Services Logs** > **Microsoft** > **Windows** > **Sysmon** > **Operational**
+  - If you see logs with event IDs like 1, 3, or 11 Sysmon is working.
 
 ![Sysmon Installation](Images/sysmon-event-viewer.png)
 *Verify Sysmon is working by checking Event Viewer.*
 
-Command Prompt: Shows the command you used to install or configure Sysmon on the Windows VM.
-
-Event Viewer: Shows the Sysmon event logs confirming that Sysmon is running and collecting data.
-
-  
 7. Verify that the Security logs are being indexed by running the following command in Splunk's Search & Reporting app:
 ```sql
 index=* sourcetype=WinEventLog:Security
@@ -178,6 +176,7 @@ index=* source="WinEventLog:Security" EventCode=4688
 - Repeat steps 2-7 for each query to complete your dashboard.
 
 ![Creating a Dashboard Panel](Images/panel-1.png)
+
 *Building a new dashboard titled “Security Monitoring” and assigning a panel title during the save process.*
 
 ![Adding Panel to Existing Dashboard](Images/panel-2.png)  
